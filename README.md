@@ -1,5 +1,5 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pdimagiba&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdimagiba&layout=compact&hide_border=true&card_width=250"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pdimagiba&&theme=algolia&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdimagiba&theme=algolia&layout=compact&hide_border=true&card_width=250"/>
 
 <!--
 **pdimagiba/pdimagiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
